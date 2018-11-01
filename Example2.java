@@ -4,8 +4,8 @@ public class Example2
 {
     public static final String API_ENDPOINT = "https://vrs.africaprudential.com/Api/V2";
 
-    public static final String API_USER = "483_api@zenter.is";
-    public static final String API_PASSPHRASE = "ea4941d2771a750d0bb50585429ab300";
+    public static final String API_USER = "484_appdev@africaprudential.com";
+    public static final String API_PASSPHRASE = "a774b3a81c25ca5d80d0ecdchangepassphrase";
 
 
     public static void main(String[] args) {

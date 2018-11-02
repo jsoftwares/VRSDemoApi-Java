@@ -18,11 +18,11 @@ public class Example3
         }
 
         ArrayList<Recipient> arr = new ArrayList<Recipient>();
-		arr.add(new Recipient("Ingimar 1", "ingimar+1@zenter.is"));
-		arr.add(new Recipient("Ingimar 2", "ingimar+2@zenter.is"));
-		arr.add(new Recipient("Ingimar 3", "ingimar+3@zenter.is"));
-		arr.add(new Recipient("Ingimar 4", "ingimar+4@zenter.is"));
-		arr.add(new Recipient("Ingimar 5", "ingimar+5@zenter.is"));
+		arr.add(new Recipient("Jeffrey O", "jeffrey.onochie@exchangepointgroup.com"));
+		arr.add(new Recipient("Akinwale Agbaje", "akinwale.agbaje@africaprudential.com"));
+		arr.add(new Recipient("Dominic Ogar", "dominic.ogar@africaprudential.com"));
+		arr.add(new Recipient("Austin Chukwu", "austin.chukwu@africaprudential.com"));
+		arr.add(new Recipient("App Team", "appdev@africaprudential.com"));
 
 
 		Job job = api.CreateJob("Test","My subject", "list-Title", arr);

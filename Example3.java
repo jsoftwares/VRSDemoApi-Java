@@ -2,9 +2,9 @@ import java.util.ArrayList;
 
 public class Example3
 {
-    public static final String API_ENDPOINT = "https://vrs.africaprudential.com/api/v2";
+    public static final String API_ENDPOINT = "https://zenter.ng/Api/V2ea1";
 
-    public static final String API_USER = "484_appdev@africaprudential.com";
+    public static final String API_USER = "484_test@useTestCredential.com";
     public static final String API_PASSPHRASE = "a774b3a81c25ca5d80d0ecdchangepassphrase";
 
 
@@ -20,7 +20,7 @@ public class Example3
         ArrayList<Recipient> arr = new ArrayList<Recipient>();
 		arr.add(new Recipient("Jeffrey O", "jeffrey.onochie@exchangepointgroup.com"));
 		arr.add(new Recipient("Akinwale Agbaje", "akinwale.agbaje@africaprudential.com"));
-		arr.add(new Recipient("Dominic Ogar", "dominic.ogar@africaprudential.com"));
+		arr.add(new Recipient("Dominic Ogar", "jeff@zenter.ng"));
 		arr.add(new Recipient("Austin Chukwu", "austin.chukwu@africaprudential.com"));
 		arr.add(new Recipient("App Team", "appdev@africaprudential.com"));
 

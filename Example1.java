@@ -8,7 +8,7 @@ import org.apache.http.util.EntityUtils;
 
 public class Example1
 {
-    public static final String API_ENDPOINT = "https://vrs.africaprudential.com/api/v2";
+    public static final String API_ENDPOINT = "https://app.zenter.ng/Api/V2ea1";
 
     public static void main(String[] args) {
         try {

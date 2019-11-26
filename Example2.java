@@ -2,9 +2,9 @@
 
 public class Example2
 {
-    public static final String API_ENDPOINT = "https://vrs.africaprudential.com/Api/V2";
+    public static final String API_ENDPOINT = "https://zenter.ng/Api/V2ea1";
 
-    public static final String API_USER = "484_appdev@africaprudential.com";
+    public static final String API_USER = "484_test@useTestCredential.com";
     public static final String API_PASSPHRASE = "a774b3a81c25ca5d80d0ecdchangepassphrase";
 
 
